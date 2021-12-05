@@ -1,3 +1,5 @@
+![repoimage](https://repository-images.githubusercontent.com/433661756/f396d7bc-8809-4c2a-96b8-2f7d15df5ef0)
+
 ## DNB Hugo Components / Robots
 
 Configuration for a customized robots.txt.
