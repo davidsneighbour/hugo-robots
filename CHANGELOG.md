@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.6...v0.0.7) (2021-12-05)
+
+
+### Build System
+
+* add readme update script to build script ([a10f01f](https://github.com/dnb-org/dnb-hugo-robots/commit/a10f01f4fd97bc227d38f7d617301921e700084b))
+* **fix:** package.json version number not updating on release ([6d120f6](https://github.com/dnb-org/dnb-hugo-robots/commit/6d120f64e4ec6ce1b26b190e3a890e882fb2b81a))
+
+
+### Chore
+
+* **config:** ignore file for remark-lint ([ff60865](https://github.com/dnb-org/dnb-hugo-robots/commit/ff60865cf34d3d082ade5d6c730e49e7eed9f62e))
+
 ### [0.0.6](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.5...v0.0.6) (2021-12-05)
 
 ### [0.0.5](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.3...v0.0.5) (2021-12-05)
