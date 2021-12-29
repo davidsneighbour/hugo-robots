@@ -1,6 +1,11 @@
-![repoimage](https://repository-images.githubusercontent.com/433661756/f396d7bc-8809-4c2a-96b8-2f7d15df5ef0)
+<!--- CARD BEGIN --->
 
-# DNB Hugo Components / Robots
+![DNB-Hugo/HEAD](.github/github-card-dark.png#gh-dark-mode-only)
+![DNB-Hugo/HEAD](.github/github-card-light.png#gh-light-mode-only)
+
+<!--- CARD END --->
+
+# DNB GoHugo Component / Robots
 
 This component for [GoHugo](https://gohugo.io/) adds a customizable robots.txt to your website.
 
@@ -46,4 +51,29 @@ robotsdisallow: true
 This will add a `Disallow` line for the current URL. Please note that with clean URLs this will disallow bot-access for all sub-folders and sub-urls of the current item.
 
 <!--- COMPONENTS BEGIN --->
+
+## Other [GoHugo](https://gohugo.io/) components by [@dnb-org](https://github.com/dnb-org/)
+
+| Component                                                                     | Description                                                |
+| :---------------------------------------------------------------------------- | :--------------------------------------------------------- |
+| [dnb-hugo-auditor](https://github.com/dnb-org/dnb-hugo-auditor)               |                                                            |
+| [dnb-hugo-debug](https://github.com/dnb-org/dnb-hugo-debug) :mage_man:        |                                                            |
+| [dnb-hugo-errors](https://github.com/dnb-org/dnb-hugo-errors)                 |                                                            |
+| [dnb-hugo-functions](https://github.com/dnb-org/dnb-hugo-functions)           |                                                            |
+| [dnb-hugo-giscus](https://github.com/dnb-org/dnb-hugo-giscus)                 | The Giscus comment system layout for GoHugo.               |
+| [dnb-hugo-head](https://github.com/dnb-org/dnb-hugo-head)                     |                                                            |
+| [dnb-hugo-internals](https://github.com/dnb-org/dnb-hugo-internals)           | Better internal templates for GoHugo                       |
+| [dnb-hugo-netlification](https://github.com/dnb-org/dnb-hugo-netlification)   | a collection of tools that optimize your site on Netlify   |
+| [dnb-hugo-opensearch](https://github.com/dnb-org/dnb-hugo-opensearch)         | configuration for Open Search                              |
+| [dnb-hugo-pictures](https://github.com/dnb-org/dnb-hugo-pictures)             |                                                            |
+| [dnb-hugo-pwa](https://github.com/dnb-org/dnb-hugo-pwa)                       | Automatically turns your site into a PWA                   |
+| [dnb-hugo-renderhooks](https://github.com/dnb-org/dnb-hugo-renderhooks)       | render hooks for Markdown markup                           |
+| [dnb-hugo-robots](https://github.com/dnb-org/dnb-hugo-robots)                 | configure the content of your robots.txt with front matter |
+| [dnb-hugo-schema](https://github.com/dnb-org/dnb-hugo-schema)                 |                                                            |
+| [dnb-hugo-search-algolia](https://github.com/dnb-org/dnb-hugo-search-algolia) |                                                            |
+| [dnb-hugo-security](https://github.com/dnb-org/dnb-hugo-security)             |                                                            |
+| [dnb-hugo-sitemap](https://github.com/dnb-org/dnb-hugo-sitemap)               |                                                            |
+| [dnb-hugo-social](https://github.com/dnb-org/dnb-hugo-social)                 |                                                            |
+
+<!--lint disable no-missing-blank-lines -->
 <!--- COMPONENTS END --->
