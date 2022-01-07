@@ -9,6 +9,8 @@
 
 This component for [GoHugo](https://gohugo.io/) adds a customizable robots.txt to your website.
 
+See this component in action at [kollitsch.de/robots.txt](https://kollitsch.de/robots.txt)
+
 <!--- THINGSTOKNOW BEGIN ---> and
 ## Some things you need to know
 
