@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.7...v0.0.8) (2022-01-07)
+
+
+### Chore
+
+* update repository files ([28a8848](https://github.com/dnb-org/dnb-hugo-robots/commit/28a88480d8d79a3da940aad7038bafabea9f593e))
+
 ### [0.0.7](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.6...v0.0.7) (2021-12-05)
 
 
