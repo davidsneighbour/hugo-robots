@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.8...v1.0.0) (2022-01-07)
+
+
+### Bug Fixes
+
+* remove local configuration for vscode ([da96e28](https://github.com/dnb-org/dnb-hugo-robots/commit/da96e284027ce8285d74ec577490976edb67a804))
+
+
+### Chore
+
+* update citation configuration ([a31d12c](https://github.com/dnb-org/dnb-hugo-robots/commit/a31d12cec7cae6657b6da67df39a4ad8f8c20280))
+* update dependencies and fixed script extension ([dbcb276](https://github.com/dnb-org/dnb-hugo-robots/commit/dbcb2767003042c04c2dc2c8552e3371e6163b76))
+
+
+### Build System
+
+* update doc-creation script ([4321ef1](https://github.com/dnb-org/dnb-hugo-robots/commit/4321ef1a0f5bb4c07c336ec105a304ad3b1957c2))
+
 ### [0.0.8](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.7...v0.0.8) (2022-01-07)
 
 
