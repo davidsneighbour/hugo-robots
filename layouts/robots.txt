@@ -1,4 +1,4 @@
-{{/*
+{{- /*
 
 Template for robots.txt
 
@@ -7,10 +7,32 @@ Template for robots.txt
 
 Add "robotsdisallow: true" to frontmatter of entries to be disallowed.
 
-*/}}
-User-agent: *
-{{ range where .Site.RegularPages "Params.robotsdisallow" true }}
-Disallow: {{ .RelPermalink }}
+*/ -}}
+{{- with site.Data.dnb.robots.config.initialComment -}}
+{{ . -}}
+{{ end -}}
+
+{{- range site.Data.dnb.robots.config.useragents }}
+User-agent: {{ .name }}
+{{- range .disallow }}
+Disallow: {{ . }}
+{{- end -}}
+{{- range .allow }}
+Allow: {{ . }}
+{{- end }}
 {{ end }}
+User-agent: *
+{{- range where .Site.RegularPages "Params.robotsdisallow" true }}
+Disallow: {{ .RelPermalink }}
+{{- end }}
 
 Sitemap: {{ "sitemap.xml" | absLangURL }}
+
+{{ with site.Data.dnb.robots.config.concludingComment -}}
+{{ . | safeHTML -}}
+{{ end -}}
+
+{{ if ne true site.Data.dnb.robots.config.disableBranding }}
+# robots.txt is prepared by @dnb-org/dnb-hugo-robots
+# https://github.com/dnb-org/dnb-hugo-robots
+{{ end -}}
