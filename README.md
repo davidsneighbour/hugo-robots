@@ -11,7 +11,7 @@ This component for [GoHugo](https://gohugo.io/) adds a customizable robots.txt t
 
 See this component in action at [kollitsch.de/robots.txt](https://kollitsch.de/robots.txt)
 
-<!--- THINGSTOKNOW BEGIN ---> and
+<!--- THINGSTOKNOW BEGIN --->
 ## Some things you need to know
 
 These are notes about conventions in this README.md. You might want to make yourself acquainted with them if this is your first visit.
