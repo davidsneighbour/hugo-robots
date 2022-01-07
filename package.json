@@ -1,6 +1,6 @@
 {
   "name": "dnb-hugo-robots",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "description": "Configurable robots.txt for Hugo",
   "author": {
