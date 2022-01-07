@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.0...v1.0.1) (2022-01-07)
+
+
+### Features
+
+* add global robots-options ([8d8760b](https://github.com/dnb-org/dnb-hugo-robots/commit/8d8760b39e4277cd7a8832f88f02d56d2f0656e8))
+* mount data directory ([c2c5e30](https://github.com/dnb-org/dnb-hugo-robots/commit/c2c5e3068f10690d49098768b9005d926098a3a3))
+
+
+### Documentation
+
+* add new options to README.md ([185e51e](https://github.com/dnb-org/dnb-hugo-robots/commit/185e51ea69e3b5ff4de3948103693221aad09748))
+
 ## [1.0.0](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.8...v1.0.0) (2022-01-07)
 
 
