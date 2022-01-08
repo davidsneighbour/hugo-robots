@@ -70,7 +70,7 @@ You can add configuration parameters per page in your frontmatter:
 robotsdisallow: true
 ```
 
-This will add a `Disallow` line for the current URL. Please note that with clean URLs this will disallow bot-access for all sub-folders and sub-urls of the current item.
+This will add a `Disallow` line for the current URL. Note, that with clean URLs this will disallow bot-access for all sub-folders and sub-urls of the current item.
 
 ## Adding global (Dis/allows)
 

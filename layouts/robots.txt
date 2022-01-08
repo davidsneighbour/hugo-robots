@@ -8,6 +8,13 @@ Template for robots.txt
 Add "robotsdisallow: true" to frontmatter of entries to be disallowed.
 
 */ -}}
+{{- $branding := true -}}
+{{- with site.Data.dnb.robots.config.disableBranding -}}
+{{- if eq true . -}}
+{{- $branding = false -}}
+{{- end -}}
+{{- end -}}
+
 {{- with site.Data.dnb.robots.config.initialComment -}}
 {{ . -}}
 {{ end -}}
@@ -32,7 +39,7 @@ Sitemap: {{ "sitemap.xml" | absLangURL }}
 {{ . | safeHTML -}}
 {{ end -}}
 
-{{ if ne true site.Data.dnb.robots.config.disableBranding }}
+{{- if $branding }}
 # robots.txt is prepared by @dnb-org/dnb-hugo-robots
-# https://github.com/dnb-org/dnb-hugo-robots
+# visit https://github.com/dnb-org/dnb-hugo-robots
 {{ end -}}
