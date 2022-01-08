@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.3...v1.0.4) (2022-01-08)
+
+
+### Features
+
+* don't break branding line on undefined config ([68e2926](https://github.com/dnb-org/dnb-hugo-robots/commit/68e2926e7894d70fdc70a024afbb83ffac7a5d40))
+
 ### [1.0.3](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.2...v1.0.3) (2022-01-07)
 
 
