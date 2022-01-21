@@ -31,7 +31,7 @@
   },
   "slug": "dnb-hugo-robots",
   "dependencies": {
-    "mem": "^9.0.1",
+    "mem": "^9.0.2",
     "trim": "^1.0.1"
   }
 }
