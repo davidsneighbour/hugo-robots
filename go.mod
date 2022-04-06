@@ -1,3 +1,3 @@
-module github.com/dnb-org/dnb-hugo-robots
+module github.com/davidsneighbour/hugo-robots
 
 go 1.17
