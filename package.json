@@ -12,7 +12,7 @@
   "repository": "davidsneighbour/hugo-robots",
   "bugs": "https://github.com/davidsneighbour/hugo-robots/issues",
   "devDependencies": {
-    "@dnb-org/remark-config": "^3.5.7",
+    "@dnb-org/remark-config": "^3.5.11",
     "@dnb-org/standard-version-config": "^3.5.6",
     "@dnb-org/tools": "^3.5.6"
   },
