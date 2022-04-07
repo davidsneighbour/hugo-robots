@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/davidsneighbour/hugo-robots/compare/v1.0.5...v1.1.0) (2022-04-07)
+
+
+### Chore
+
+* **config:** update header images ([93dd9eb](https://github.com/davidsneighbour/hugo-robots/commit/93dd9eb883d37158bd031f3d34299449a6cc6fb6))
+* **deps:** update dependencies ([dc464c3](https://github.com/davidsneighbour/hugo-robots/commit/dc464c39e6f9ee2553bbebf5e961b4455a689c41))
+* fix release script paths ([52cb2a0](https://github.com/davidsneighbour/hugo-robots/commit/52cb2a07239b76e7ba2e982d5755f58d00281b31))
+* update go.mod ([2b7b656](https://github.com/davidsneighbour/hugo-robots/commit/2b7b656ea53ac713556034e86ed07cdbcb7d0529))
+* updates and repo-renames ([cc96e00](https://github.com/davidsneighbour/hugo-robots/commit/cc96e00c0c1d4ada6da6bbca092dab2c8472c0c7))
+
 ### [1.0.5](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.4...v1.0.5) (2022-01-08)
 
 
