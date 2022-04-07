@@ -40,6 +40,6 @@ Sitemap: {{ "sitemap.xml" | absLangURL }}
 {{ end -}}
 
 {{- if $branding }}
-# robots.txt is prepared by @dnb-org/dnb-hugo-robots
-# visit https://github.com/dnb-org/dnb-hugo-robots
+# robots.txt is prepared by @davidsneighbour/hugo-robots
+# visit https://github.com/davidsneighbour/hugo-robots
 {{ end -}}

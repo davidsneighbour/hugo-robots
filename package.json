@@ -8,9 +8,9 @@
     "email": "patrick@davids-neighbour.com",
     "web": "https://davids-neighbour.com"
   },
-  "homepage": "https://github.com/dnb-org/dnb-hugo-robots",
-  "repository": "dnb-org/dnb-hugo-robots",
-  "bugs": "https://github.com/dnb-org/dnb-hugo-robots/issues",
+  "homepage": "https://github.com/davidsneighbour/hugo-robots",
+  "repository": "davidsneighbour/hugo-robots",
+  "bugs": "https://github.com/davidsneighbour/hugo-robots/issues",
   "devDependencies": {
     "@dnb-org/remark-config": "^3.5.7",
     "@dnb-org/standard-version-config": "^3.5.6",
