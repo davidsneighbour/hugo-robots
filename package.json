@@ -1,5 +1,5 @@
 {
-  "name": "dnb-hugo-robots",
+  "name": "@davidsneighbour/hugo-robots",
   "version": "1.1.0",
   "license": "MIT",
   "description": "Configurable robots.txt for Hugo",
@@ -12,9 +12,9 @@
   "repository": "davidsneighbour/hugo-robots",
   "bugs": "https://github.com/davidsneighbour/hugo-robots/issues",
   "devDependencies": {
-    "@dnb-org/remark-config": "^3.5.7",
-    "@dnb-org/standard-version-config": "^3.5.6",
-    "@dnb-org/tools": "^3.5.6"
+    "@davidsneighbour/remark-config": "^4.0.1",
+    "@davidsneighbour/standard-version-config": "^4.0.1",
+    "@davidsneighbour/tools": "^4.0.1"
   },
   "scripts": {
     "clean": "run-p clean:*",
@@ -26,10 +26,10 @@
   "private": true,
   "remarkConfig": {
     "plugins": [
-      "@dnb-org/remark-config"
+      "@davidsneighbour/remark-config"
     ]
   },
-  "slug": "dnb-hugo-robots",
+  "slug": "hugo-robots",
   "dependencies": {
     "mem": "^9.0.2",
     "trim": "^1.0.1"

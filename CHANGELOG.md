@@ -13,110 +13,110 @@ All notable changes to this project will be documented in this file. See [standa
 * update go.mod ([2b7b656](https://github.com/davidsneighbour/hugo-robots/commit/2b7b656ea53ac713556034e86ed07cdbcb7d0529))
 * updates and repo-renames ([cc96e00](https://github.com/davidsneighbour/hugo-robots/commit/cc96e00c0c1d4ada6da6bbca092dab2c8472c0c7))
 
-### [1.0.5](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.4...v1.0.5) (2022-01-08)
+### [1.0.5](https://github.com/davidsneighbour/hugo-robots/compare/v1.0.4...v1.0.5) (2022-01-08)
 
 
 ### Chore
 
-* add LICENSE and update Go version ([bab958d](https://github.com/dnb-org/dnb-hugo-robots/commit/bab958d31b6d7f1db325137f1fd40107cacb2340))
+* add LICENSE and update Go version ([bab958d](https://github.com/davidsneighbour/hugo-robots/commit/bab958d31b6d7f1db325137f1fd40107cacb2340))
 
-### [1.0.4](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.3...v1.0.4) (2022-01-08)
+### [1.0.4](https://github.com/davidsneighbour/hugo-robots/compare/v1.0.3...v1.0.4) (2022-01-08)
 
 
 ### Features
 
-* don't break branding line on undefined config ([68e2926](https://github.com/dnb-org/dnb-hugo-robots/commit/68e2926e7894d70fdc70a024afbb83ffac7a5d40))
+* don't break branding line on undefined config ([68e2926](https://github.com/davidsneighbour/hugo-robots/commit/68e2926e7894d70fdc70a024afbb83ffac7a5d40))
 
-### [1.0.3](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.2...v1.0.3) (2022-01-07)
+### [1.0.3](https://github.com/davidsneighbour/hugo-robots/compare/v1.0.2...v1.0.3) (2022-01-07)
 
 
 ### Bug Fixes
 
-* remove errant vocab ([470a7b7](https://github.com/dnb-org/dnb-hugo-robots/commit/470a7b77d7c282040e708213a8f9fb85ccd47ed7))
+* remove errant vocab ([470a7b7](https://github.com/davidsneighbour/hugo-robots/commit/470a7b77d7c282040e708213a8f9fb85ccd47ed7))
 
-### [1.0.2](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.1...v1.0.2) (2022-01-07)
+### [1.0.2](https://github.com/davidsneighbour/hugo-robots/compare/v1.0.1...v1.0.2) (2022-01-07)
 
 
 ### Documentation
 
-* add sample to README.md ([142605c](https://github.com/dnb-org/dnb-hugo-robots/commit/142605c065ad414033d986a805c7d99e74925f72))
+* add sample to README.md ([142605c](https://github.com/davidsneighbour/hugo-robots/commit/142605c065ad414033d986a805c7d99e74925f72))
 
-### [1.0.1](https://github.com/dnb-org/dnb-hugo-robots/compare/v1.0.0...v1.0.1) (2022-01-07)
+### [1.0.1](https://github.com/davidsneighbour/hugo-robots/compare/v1.0.0...v1.0.1) (2022-01-07)
 
 
 ### Features
 
-* add global robots-options ([8d8760b](https://github.com/dnb-org/dnb-hugo-robots/commit/8d8760b39e4277cd7a8832f88f02d56d2f0656e8))
-* mount data directory ([c2c5e30](https://github.com/dnb-org/dnb-hugo-robots/commit/c2c5e3068f10690d49098768b9005d926098a3a3))
+* add global robots-options ([8d8760b](https://github.com/davidsneighbour/hugo-robots/commit/8d8760b39e4277cd7a8832f88f02d56d2f0656e8))
+* mount data directory ([c2c5e30](https://github.com/davidsneighbour/hugo-robots/commit/c2c5e3068f10690d49098768b9005d926098a3a3))
 
 
 ### Documentation
 
-* add new options to README.md ([185e51e](https://github.com/dnb-org/dnb-hugo-robots/commit/185e51ea69e3b5ff4de3948103693221aad09748))
+* add new options to README.md ([185e51e](https://github.com/davidsneighbour/hugo-robots/commit/185e51ea69e3b5ff4de3948103693221aad09748))
 
-## [1.0.0](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.8...v1.0.0) (2022-01-07)
+## [1.0.0](https://github.com/davidsneighbour/hugo-robots/compare/v0.0.8...v1.0.0) (2022-01-07)
 
 
 ### Bug Fixes
 
-* remove local configuration for vscode ([da96e28](https://github.com/dnb-org/dnb-hugo-robots/commit/da96e284027ce8285d74ec577490976edb67a804))
+* remove local configuration for vscode ([da96e28](https://github.com/davidsneighbour/hugo-robots/commit/da96e284027ce8285d74ec577490976edb67a804))
 
 
 ### Chore
 
-* update citation configuration ([a31d12c](https://github.com/dnb-org/dnb-hugo-robots/commit/a31d12cec7cae6657b6da67df39a4ad8f8c20280))
-* update dependencies and fixed script extension ([dbcb276](https://github.com/dnb-org/dnb-hugo-robots/commit/dbcb2767003042c04c2dc2c8552e3371e6163b76))
+* update citation configuration ([a31d12c](https://github.com/davidsneighbour/hugo-robots/commit/a31d12cec7cae6657b6da67df39a4ad8f8c20280))
+* update dependencies and fixed script extension ([dbcb276](https://github.com/davidsneighbour/hugo-robots/commit/dbcb2767003042c04c2dc2c8552e3371e6163b76))
 
 
 ### Build System
 
-* update doc-creation script ([4321ef1](https://github.com/dnb-org/dnb-hugo-robots/commit/4321ef1a0f5bb4c07c336ec105a304ad3b1957c2))
+* update doc-creation script ([4321ef1](https://github.com/davidsneighbour/hugo-robots/commit/4321ef1a0f5bb4c07c336ec105a304ad3b1957c2))
 
-### [0.0.8](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.7...v0.0.8) (2022-01-07)
+### [0.0.8](https://github.com/davidsneighbour/hugo-robots/compare/v0.0.7...v0.0.8) (2022-01-07)
 
 
 ### Chore
 
-* update repository files ([28a8848](https://github.com/dnb-org/dnb-hugo-robots/commit/28a88480d8d79a3da940aad7038bafabea9f593e))
+* update repository files ([28a8848](https://github.com/davidsneighbour/hugo-robots/commit/28a88480d8d79a3da940aad7038bafabea9f593e))
 
-### [0.0.7](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.6...v0.0.7) (2021-12-05)
+### [0.0.7](https://github.com/davidsneighbour/hugo-robots/compare/v0.0.6...v0.0.7) (2021-12-05)
 
 
 ### Build System
 
-* add readme update script to build script ([a10f01f](https://github.com/dnb-org/dnb-hugo-robots/commit/a10f01f4fd97bc227d38f7d617301921e700084b))
-* **fix:** package.json version number not updating on release ([6d120f6](https://github.com/dnb-org/dnb-hugo-robots/commit/6d120f64e4ec6ce1b26b190e3a890e882fb2b81a))
+* add readme update script to build script ([a10f01f](https://github.com/davidsneighbour/hugo-robots/commit/a10f01f4fd97bc227d38f7d617301921e700084b))
+* **fix:** package.json version number not updating on release ([6d120f6](https://github.com/davidsneighbour/hugo-robots/commit/6d120f64e4ec6ce1b26b190e3a890e882fb2b81a))
 
 
 ### Chore
 
-* **config:** ignore file for remark-lint ([ff60865](https://github.com/dnb-org/dnb-hugo-robots/commit/ff60865cf34d3d082ade5d6c730e49e7eed9f62e))
+* **config:** ignore file for remark-lint ([ff60865](https://github.com/davidsneighbour/hugo-robots/commit/ff60865cf34d3d082ade5d6c730e49e7eed9f62e))
 
-### [0.0.6](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.5...v0.0.6) (2021-12-05)
+### [0.0.6](https://github.com/davidsneighbour/hugo-robots/compare/v0.0.5...v0.0.6) (2021-12-05)
 
-### [0.0.5](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.3...v0.0.5) (2021-12-05)
+### [0.0.5](https://github.com/davidsneighbour/hugo-robots/compare/v0.0.3...v0.0.5) (2021-12-05)
 
 
 ### Chore
 
-* **release:** v0.0.3 ([2a7ca99](https://github.com/dnb-org/dnb-hugo-robots/commit/2a7ca9937d596ee0ef78f4455eae3729929a4b26))
+* **release:** v0.0.3 ([2a7ca99](https://github.com/davidsneighbour/hugo-robots/commit/2a7ca9937d596ee0ef78f4455eae3729929a4b26))
 
-### [0.0.3](https://github.com/dnb-org/dnb-hugo-robots/compare/v0.0.2...v0.0.3) (2021-12-05)
+### [0.0.3](https://github.com/davidsneighbour/hugo-robots/compare/v0.0.2...v0.0.3) (2021-12-05)
 
 
 ### Documentation
 
-* add repoimage to README.md ([17bc0c1](https://github.com/dnb-org/dnb-hugo-robots/commit/17bc0c18836b2fcc37e4990c874b80a8c595ed6d))
+* add repoimage to README.md ([17bc0c1](https://github.com/davidsneighbour/hugo-robots/commit/17bc0c18836b2fcc37e4990c874b80a8c595ed6d))
 
 
 ### Chore
 
-* **deps:** update dependencies ([59c495b](https://github.com/dnb-org/dnb-hugo-robots/commit/59c495bace465aa37545a1e3efe21fcf27e62810))
-* **release:** v0.0.2 ([cea446e](https://github.com/dnb-org/dnb-hugo-robots/commit/cea446ef58d9accdb2fbfa0140a115fdf23ff4db))
+* **deps:** update dependencies ([59c495b](https://github.com/davidsneighbour/hugo-robots/commit/59c495bace465aa37545a1e3efe21fcf27e62810))
+* **release:** v0.0.2 ([cea446e](https://github.com/davidsneighbour/hugo-robots/commit/cea446ef58d9accdb2fbfa0140a115fdf23ff4db))
 
 ### 0.0.2 (2021-12-03)
 
 
 ### Chore
 
-* initial commit, current version ([9ef8a1b](https://github.com/dnb-org/dnb-hugo-robots/commit/9ef8a1bcbd24dc225e08d91ae7f1a34ede8586c7))
+* initial commit, current version ([9ef8a1b](https://github.com/davidsneighbour/hugo-robots/commit/9ef8a1bcbd24dc225e08d91ae7f1a34ede8586c7))
