@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/davidsneighbour/hugo-robots/compare/v1.1.0...v1.1.1) (2022-04-20)
+
+
+### Build System
+
+* update Github organization name & use newer NPM dependencies ([#37](https://github.com/davidsneighbour/hugo-robots/issues/37)) ([3366705](https://github.com/davidsneighbour/hugo-robots/commit/33667052d7102095b5af66a0efd634a930a55dac))
+
 ## [1.1.0](https://github.com/davidsneighbour/hugo-robots/compare/v1.0.5...v1.1.0) (2022-04-07)
 
 
