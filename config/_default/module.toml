@@ -1,14 +1,14 @@
 ################################################################################
 # configuration
 ################################################################################
-[module.hugoVersion]
+[hugoVersion]
 extended = false
 min = "0.84.4"
 
-[[module.mounts]]
+[[mounts]]
 source = "layouts/robots.txt"
 target = "layouts/robots.txt"
 
-[[module.mounts]]
+[[mounts]]
 source = "data"
 target = "data"
