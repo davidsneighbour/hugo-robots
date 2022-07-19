@@ -12,7 +12,6 @@
   "repository": "davidsneighbour/hugo-robots",
   "bugs": "https://github.com/davidsneighbour/hugo-robots/issues",
   "devDependencies": {
-    "@davidsneighbour/remark-config": "^4.0.1",
     "@davidsneighbour/standard-version-config": "^4.0.1",
     "@davidsneighbour/tools": "^4.0.1"
   },
@@ -23,15 +22,5 @@
     "release:major": "standard-version --release-as major -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease",
     "release:minor": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease"
   },
-  "private": true,
-  "remarkConfig": {
-    "plugins": [
-      "@davidsneighbour/remark-config"
-    ]
-  },
-  "slug": "hugo-robots",
-  "dependencies": {
-    "mem": "^9.0.2",
-    "trim": "^1.0.1"
-  }
+  "private": true
 }
