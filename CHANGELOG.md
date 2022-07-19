@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/davidsneighbour/hugo-robots/compare/v1.1.1...v1.1.2) (2022-07-19)
+
+
+### Chore
+
+* **config:** fix package.json setup ([5126237](https://github.com/davidsneighbour/hugo-robots/commit/5126237cdff38ee8910e5640fb1fbf939cfe3318))
+* **config:** set dependabot to monthly checks ([5184773](https://github.com/davidsneighbour/hugo-robots/commit/5184773f0701d1d2d90a91579b6eb78e2bb67f50))
+
+
+### Build System
+
+* **fix:** update build system ([dda7a97](https://github.com/davidsneighbour/hugo-robots/commit/dda7a973d22c0d3a0019336f850f4a21f7620b6d))
+
 ### [1.1.1](https://github.com/davidsneighbour/hugo-robots/compare/v1.1.0...v1.1.1) (2022-04-20)
 
 
