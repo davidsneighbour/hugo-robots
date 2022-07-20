@@ -39,4 +39,4 @@ node ./node_modules/replace-between/bin/replace-between.js \
   --target README.md \
   --token THINGSTOKNOW
 
-sed -i 's+##MODULENAME##+github.com/davidsneighbour/hugo-robots+g' README.md
+sed -i 's+##MODULENAME##+hugo-robots+g' README.md
