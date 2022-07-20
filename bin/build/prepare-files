@@ -40,3 +40,5 @@ node ./node_modules/replace-between/bin/replace-between.js \
   --token THINGSTOKNOW
 
 sed -i 's+##MODULENAME##+hugo-robots+g' README.md
+
+git add README.md
