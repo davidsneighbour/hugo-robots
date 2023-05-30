@@ -12,13 +12,14 @@
   "repository": "davidsneighbour/hugo-robots",
   "bugs": "https://github.com/davidsneighbour/hugo-robots/issues",
   "devDependencies": {
-    "@davidsneighbour/config": "^1.0.13"
+    "@davidsneighbour/standard-version-config": "^5.0.16",
+    "@davidsneighbour/remark-config": "^5.1.31",
+    "@davidsneighbour/tools": "^5.1.35"
   },
   "scripts": {
     "clean": "run-p clean:*",
     "clean:npm": "rimraf node_modules package-lock.json",
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
-    "release:major": "standard-version --release-as major -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
     "release:minor": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease"
   },
   "private": true
