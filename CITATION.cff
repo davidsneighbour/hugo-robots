@@ -5,6 +5,6 @@ authors:
     given-names: "Patrick"
     orcid: "https://orcid.org/0000-0001-6250-2135"
 title: "Hugo Components / Robots"
-version: 1.2.11
+version: 1.2.12
 date-released: 2023-06-04
 url: "https://github.com/davidsneighbour/hugo-robots"
