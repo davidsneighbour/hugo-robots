@@ -1,5 +1,5 @@
-![DNB-Hugo/HEAD](.github/github-card-dark.png#gh-dark-mode-only)
-![DNB-Hugo/HEAD](.github/github-card-light.png#gh-light-mode-only)
+![hugo-robots](.github/github-card-dark.png#gh-dark-mode-only)
+![hugo-robots](.github/github-card-light.png#gh-light-mode-only)
 
 # GoHugo Component / Robots
 
