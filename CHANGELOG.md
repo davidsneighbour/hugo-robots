@@ -2,6 +2,39 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.15](https://github.com/davidsneighbour/hugo-robots/compare/v1.2.6...v1.2.15) (2023-06-29)
+
+
+### Bug Fixes
+
+* move configuration and templates around ([ac3e5b9](https://github.com/davidsneighbour/hugo-robots/commit/ac3e5b943c8306ef1f7c8339cc20829b1ee03a16))
+
+
+### Chore
+
+* **config:** add renovate.json ([#65](https://github.com/davidsneighbour/hugo-robots/issues/65)) ([a63eeb4](https://github.com/davidsneighbour/hugo-robots/commit/a63eeb44a14c2bd3636643ef6ad6ebce111b5a43))
+* **config:** update dependencies ([dc9e97a](https://github.com/davidsneighbour/hugo-robots/commit/dc9e97a0101b5eaf3ff8961f446edb075778de4b))
+* **deps:** update and fix dependencies ([062eb06](https://github.com/davidsneighbour/hugo-robots/commit/062eb06ac9605c34cbefba931780529de36b3465))
+* **deps:** update dependencies ([c738031](https://github.com/davidsneighbour/hugo-robots/commit/c738031cc6c7e2d75d7cbe84758ef6c2bfdd21d5))
+* **release:** v1.2.10 ([ac4cd7d](https://github.com/davidsneighbour/hugo-robots/commit/ac4cd7d336eef18ea4478647041f78c7da973611))
+* **release:** v1.2.11 ([f2e890c](https://github.com/davidsneighbour/hugo-robots/commit/f2e890cc7a486c63d46b4f02fc449e84ba6cb216))
+* **release:** v1.2.12 ([6e0d658](https://github.com/davidsneighbour/hugo-robots/commit/6e0d658149d370d8d31c306d145fabff99b1fbbb))
+* **release:** v1.2.13 ([ceb4f6e](https://github.com/davidsneighbour/hugo-robots/commit/ceb4f6e16bb322b4402ee252735bc8a700db37ef))
+* **release:** v1.2.14 ([6392a29](https://github.com/davidsneighbour/hugo-robots/commit/6392a29fdb885dab32c760a21641dbde99f44d81))
+* **release:** v1.2.7 ([1544867](https://github.com/davidsneighbour/hugo-robots/commit/15448676f0a5ebf00a47ac92e2e930b551b1aca7))
+* **release:** v1.2.8 ([a42dd80](https://github.com/davidsneighbour/hugo-robots/commit/a42dd806c862a8d8a54b946039180a81d6725267))
+* **release:** v1.2.9 ([1e952a7](https://github.com/davidsneighbour/hugo-robots/commit/1e952a7bd818e41b19d3b388bcecd1c90f6c2ce0))
+* update repo setup files ([bd13411](https://github.com/davidsneighbour/hugo-robots/commit/bd13411fc2ab2ee9a1cf86ef3826816019ee3de1))
+
+
+### Build System
+
+* **deps:** bump http-cache-semantics from 4.1.0 to 4.1.1 ([#61](https://github.com/davidsneighbour/hugo-robots/issues/61)) ([bd61d12](https://github.com/davidsneighbour/hugo-robots/commit/bd61d120a37253cb9deba119f8bb3e92b0b2080d))
+* **fix:** post release hook ([85ce837](https://github.com/davidsneighbour/hugo-robots/commit/85ce837f944aff4a7a6eb8815603a2ef5b6c6cdd))
+* **fix:** remove package info retrieval ([066c515](https://github.com/davidsneighbour/hugo-robots/commit/066c5150d7825e31ff7c52940621b87ea42a5880))
+* **fix:** remove unused prerelease hook particles ([5e80f1d](https://github.com/davidsneighbour/hugo-robots/commit/5e80f1d99b42871edadec6147bf47add9c7e050e))
+* **fix:** update build routine ([b9cf897](https://github.com/davidsneighbour/hugo-robots/commit/b9cf897396db4177b49ae6de841a22303199a777))
+
 ### [1.2.14](https://github.com/davidsneighbour/hugo-robots/compare/v1.2.6...v1.2.14) (2023-06-29)
 
 
