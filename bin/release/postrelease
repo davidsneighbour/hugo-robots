@@ -1,12 +1,10 @@
 #!/bin/bash
+# v20230630.1
 
 REQUIRED_TOOLS=(
   git
-  sed
-  node
 )
 
-# check if all requirements are met
 for TOOL in "${REQUIRED_TOOLS[@]}"; do
   if ! command -v "${TOOL}" >/dev/null; then
     echo "${TOOL} is required... "
@@ -25,24 +23,29 @@ if [ -f "$FILE" ]; then
   # shellcheck source=/dev/null
   source "${FILE}"
   set +a # stop exporting
+else
+  echo "no .env file found"
+  exit 0
 fi
 
 # update version in citation configuration
 FILE=CITATION.cff
 if test -f "$FILE"; then
+  VERSION=$(node -pe 'require("./package.json")["version"]')
   sed -i "s/^version: .*/version: ${VERSION}/" $FILE
   DATE=$(date +%F)
-  sed -i "s/^date-released: .*/date-released: ${DATE}/" $FILE
+  sed -i "s/date-released: .*/date-released: ${DATE}/" $FILE
   git add $FILE
 fi
 
-# add re-versioned files to recent edit
-git add data/dnb/
-git commit --amend --no-edit --quiet --signoff --no-verify
+# adding data directory for new build information
+git add data/dnb
+git add README.md
+git commit --signoff --amend --no-edit
 
-# push everything up
-git push --follow-tags origin main --quiet --force
-git push --tags --quiet --force
+# push release to GitHub
+git push origin main --follow-tags
+git push origin --tags
 
 # create a release on GitHub
 GITHUB_REPO=https://github.com/${GITHUB_REPOSLUG}
@@ -53,6 +56,4 @@ curl \
   -H "Authorization: token ${GITHUB_SECRET}" \
   https://api.github.com/repos/"${GITHUB_REPOSLUG}"/releases \
   -d "{\"tag_name\":\"v${VERSION}\",\"name\":\"v${VERSION}\",\"draft\":false,\"prerelease\":false,\"generate_release_notes\":true}"
-//xdg-open "${URL}" &>>/dev/null
-
-git push origin main --quiet
+xdg-open "${URL}" &>>/dev/null
