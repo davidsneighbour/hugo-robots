@@ -14,7 +14,7 @@
   "devDependencies": {
     "@davidsneighbour/remark-config": "5.2.24",
     "@davidsneighbour/standard-version-config": "5.2.24",
-    "@davidsneighbour/tools": "5.2.17"
+    "@davidsneighbour/tools": "5.2.24"
   },
   "scripts": {
     "clean": "run-p clean:*",
