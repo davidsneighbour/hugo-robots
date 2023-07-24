@@ -13,7 +13,7 @@
   "bugs": "https://github.com/davidsneighbour/hugo-robots/issues",
   "devDependencies": {
     "@davidsneighbour/remark-config": "5.2.26",
-    "@davidsneighbour/standard-version-config": "5.2.25",
+    "@davidsneighbour/standard-version-config": "5.2.26",
     "@davidsneighbour/tools": "5.2.25"
   },
   "scripts": {
